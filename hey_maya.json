@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey maya",
   "author": "betonbrick",
-  "website": "",
+  "website": "https://github.com/betonbrick",
   "model": "https://raw.githubusercontent.com/betonbrick/hey-maya-wakeword/main/hey_maya.tflite",
   "trained_languages": ["en"],
   "version": 2,
@@ -11,6 +11,6 @@
     "feature_step_size": 10,
     "sliding_window_size": 5,
     "tensor_arena_size": 21000,
-    "minimum_esphome_version": "2024.7"
+    "minimum_esphome_version": "2025.7.2"
   }
 }
